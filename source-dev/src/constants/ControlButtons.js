@@ -1,0 +1,2 @@
+export const CLEAR_BTN_CLICK = 'CLEAR_BTN_CLICK';
+export const SAVE_BTN_CLICK = 'SAVE_BTN_CLICK';

@@ -1,0 +1,1 @@
+export const LEAD_CELL_CLICK = 'LEAD_CELL_CLICK';
